@@ -1,0 +1,95 @@
+INFO:root:Starting server. Listening...
+INFO:root:clientId: "1"
+message: "Hi"
+
+INFO:root:clientId: "1"
+message: "Thanks "
+
+INFO:root:clientId: "2"
+message: "Hi"
+
+INFO:root:Starting server. Listening...
+INFO:root:clientId: "1"
+message: "Hi"
+
+INFO:root:clientId: "1"
+message: "Bye"
+
+INFO:root:clientId: "1"
+message: "Hi"
+
+INFO:root:clientId: "1"
+message: "Hi"
+
+INFO:root:clientId: "1"
+message: "My name is Karandeep Parashar"
+
+INFO:root:clientId: "1"
+message: "This is a test as user 1"
+
+INFO:root:clientId: "2"
+message: "I am user 2"
+
+INFO:root:Starting server. Listening...
+INFO:root:clientId: "1"
+message: "Hi"
+
+INFO:root:clientId: "1"
+message: "Bye"
+
+INFO:root:clientId: "2"
+message: "Hi"
+
+INFO:root:clientId: "2"
+message: "bye"
+
+INFO:root:Starting server. Listening...
+INFO:root:clientId: "1"
+message: "Hi"
+
+INFO:root:clientId: "1"
+message: "Bye"
+
+INFO:root:clientId: "2"
+message: "yo"
+
+INFO:root:Starting server. Listening...
+INFO:root:Sent: S[1] Hi, I am Alice.
+INFO:root:Received: S[1] Hi
+INFO:root:Received: S[1] Hi
+INFO:root:Received: S[1] My name is Karan
+INFO:root:Received: S[1] My name is Karan
+INFO:root:Received: S[1] Hi, I am Alice.
+INFO:root:Received: S[1] Hi, I am Alice.
+INFO:root:Sent: S[2] Hi, I am Bob. This testing session has been a pleasure.
+INFO:root:Received: S[2] Hi, I am Bob. This testing session has been a pleasure.
+INFO:root:Received: S[2] Hi, I am Bob. This testing session has been a pleasure.
+INFO:root:Sent: S[1] It's me Alice again. Sending this for third test case.
+INFO:root:Received: S[1] It's me Alice again. Sending this for third test case.
+INFO:root:Received: S[1] It's me Alice again. Sending this for third test case.
+INFO:root:Sent: S[4] It's me Doug. I'm an outsider, checking if I can reach anyone.
+INFO:root:Starting server. Listening...
+INFO:root:Sent: S[1] Hi, I am Alice.
+INFO:root:clientId: "1"
+message: "Hi, I am Alice."
+
+INFO:root:Starting server. Listening...
+INFO:root:Sent: S[1] Hi, I am Alice.
+INFO:root:clientId: "1"
+message: "Hi, I am Alice."
+
+INFO:root:Received: S[1] Hi, I am Alice.
+INFO:root:Received: S[1] Hi, I am Alice.
+INFO:root:Sent: S[2] Hi, I am Bob. This testing session has been a pleasure.
+INFO:root:clientId: "2"
+message: "Hi, I am Bob. This testing session has been a pleasure."
+
+INFO:root:Received: S[2] Hi, I am Bob. This testing session has been a pleasure.
+INFO:root:Received: S[2] Hi, I am Bob. This testing session has been a pleasure.
+INFO:root:Sent: S[1] It's me Alice again. Sending this for third test case.
+INFO:root:clientId: "1"
+message: "It\'s me Alice again. Sending this for third test case."
+
+INFO:root:Received: S[1] It's me Alice again. Sending this for third test case.
+INFO:root:Received: S[1] It's me Alice again. Sending this for third test case.
+INFO:root:Sent: S[4] It's me Doug. I'm an outsider, checking if I can reach anyone.

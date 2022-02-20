@@ -1,0 +1,40 @@
+INFO:root:Client starting.....
+INFO:root:Sent: S[1] Hi
+INFO:root:Sent: S[1] Thanks 
+INFO:root:Client starting.....
+INFO:root:Received: S[1] Hi
+INFO:root:Received: S[1] Thanks 
+INFO:root:Sent: S[2] Hi
+INFO:root:Sent: S[1] Hi
+INFO:root:Sent: S[1] Bye
+INFO:root:Client1starting.....
+INFO:root:Sent: S[1] Hi
+INFO:root:Client 1 starting.....
+INFO:root:Sent: S[1] Hi
+INFO:root:Sent: S[1] My name is Karandeep Parashar
+INFO:root:Sent: S[1] This is a test as user 1
+INFO:root:Client 2 starting.....
+INFO:root:Received: S[1] Hi
+INFO:root:Received: S[1] Bye
+INFO:root:Received: S[1] Hi
+INFO:root:Received: S[1] Hi
+INFO:root:Received: S[1] My name is Karandeep Parashar
+INFO:root:Received: S[1] This is a test as user 1
+INFO:root:Sent: S[2] I am user 2
+INFO:root:Client 1 starting.....
+INFO:root:Sent: S[1] Hi
+INFO:root:Sent: S[1] Bye
+INFO:root:Client 2 starting.....
+INFO:root:Received: S[1] Hi
+INFO:root:Received: S[1] Bye
+INFO:root:Sent: S[2] Hi
+INFO:root:Sent: S[2] bye
+INFO:root:Client 1 starting.....
+INFO:root:Sent: S[1] Hi
+INFO:root:Sent: S[1] Bye
+INFO:root:Client 2 starting.....
+INFO:root:Received: S[1] Hi
+INFO:root:Received: S[1] Bye
+INFO:root:Sent: S[2] yo
+INFO:root:Client 1 starting.....
+INFO:root:Received: S[2] yo

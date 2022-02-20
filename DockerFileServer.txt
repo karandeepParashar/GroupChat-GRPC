@@ -1,0 +1,13 @@
+#docker build -t proj-1-karandeep . -f DockerFileServer.txt
+#docker run -t -i os-proj-1
+FROM python:3.7.6
+
+WORKDIR /GroupChat
+
+COPY requirements.txt .
+
+RUN pip install -r requirements.txt
+
+COPY ./GroupChat .
+
+CMD ["python","./TestGroupChat.py"]

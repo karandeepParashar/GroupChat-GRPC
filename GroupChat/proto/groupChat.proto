@@ -1,0 +1,20 @@
+syntax = "proto3";
+package grpc;
+//client info to verify first msgs
+message ClientInfo {
+    string clientId = 1;
+};
+//messages sent by client
+message Msg {
+    string clientId = 1;
+    string message = 2;
+};
+//blank reply for sent msg
+message Blank {
+    bool received = 1;
+};
+//Service for sending msgs history stream to new client and sending new msgs
+service GroupChatServer{
+    rpc msgStream (ClientInfo) returns (stream Msg);
+    rpc SendMsg (Msg) returns (Blank);
+}

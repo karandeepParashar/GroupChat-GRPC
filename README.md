@@ -32,7 +32,7 @@ _For running the project please follow the following commands._
 
 1. Clone the repo
    ```sh
-   git clone [https://github.com/karandeepParashar/WeatherApp.git](https://github.com/karandeepParashar/GroupChat-GRPC.git)
+   git clone https://github.com/karandeepParashar/GroupChat-GRPC.git
    ```
 2. Enter the project directory.
    ```sh

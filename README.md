@@ -36,7 +36,7 @@ _For running the project please follow the following commands._
    ```
 2. Enter the project directory.
    ```sh
-   cd GroupChat-GRPC
+   cd GroupChat-GRPC/GroupChat
    ```
 3. Install all dependencies
    ```sh
